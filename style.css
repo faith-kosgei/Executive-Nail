@@ -340,3 +340,39 @@ h3{
 .fa-copyright{
 	color: #87CEFA;
 }
+/* -----------------About Us page-------------- */
+.sub-header{
+	height:50vh;
+	width: 100%;
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/nail1.jpg);
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	color: aliceblue;
+
+}
+.sub-header h1{
+	margin-top:100px ;
+}
+.about-us{
+	width: 80%;
+	margin: auto;
+	padding-top: 80px;
+	padding-bottom: 50px;
+
+}
+.about-col{
+	flex-basis: 48%;
+	padding: 30px 2px;
+
+}
+.about-col img{ 
+	width: 100%;		
+}
+/* @media(min-width:700px ){
+	.about-col img{
+		margin-left: 0px;
+		margin-right: 15px;
+	}
+		
+	} */
