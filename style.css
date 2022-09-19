@@ -42,7 +42,7 @@ label.logo{
 	content: '';
 	width: 0%;
 	height: 2px;
-	background: #f44336;
+	background: #36b8f4;
 	display: block;
 	margin: auto;
 	transition: 0.5s;
@@ -79,8 +79,8 @@ label.logo{
 	cursor: pointer;
 }
 .hero-btn:hover{
-	border: 1px solid #f44336;
-	background: #f44336;
+	border: 1px solid #36cef4;
+	background: #36b8f4;
 	transition: 1s;
 
 }
@@ -99,7 +99,7 @@ nav .fa{
 	}
 	.nav-links{
 		position: absolute;
-		background: #f44336;
+		background: #36d8f4;
 		height: 100vh;
 		width: 200px;
 		top: 0;
@@ -203,7 +203,7 @@ h3{
 
 }
 .layer:hover{
-	background: rgba(226, 0, 0, 0.7);
+	background: rgba(24, 202, 247, 0.7);
 
 }
 .layer h3{
@@ -286,7 +286,7 @@ h3{
 	text-align: left;
 }
 .reviews-col.fa{
-	color: #f44336;
+	color: #97bafc;
 
 }
 @media(max-width: 700px){
@@ -355,11 +355,18 @@ h3{
 	margin-top:100px ;
 }
 .about-us{
+<<<<<<< HEAD
 	width: 100%;
 	margin: auto;
 	padding-top: 80px;
 	padding-bottom: 50px;
 	display:flex;
+=======
+	width: 80%;
+	margin: auto;
+	padding-top: 80px;
+	padding-bottom: 50px;
+>>>>>>> 5df51c2faedf4a27c03b65316c31e92d07867020
 
 }
 .about-col{
@@ -367,6 +374,7 @@ h3{
 	padding: 30px 2px;
 
 }
+<<<<<<< HEAD
 .about-col h1{
 	font-size: 30px;
 	font-style: oblique;
@@ -381,3 +389,32 @@ h3{
 	width: 100%;
 	
 }
+=======
+.about-col img{ 
+	width: 100%;
+			
+}
+.about-col h1{
+	padding-top: 0;
+	font-size: 50px;
+	font-weight: 600;
+	color: rgb(10, 161, 161);
+
+
+}
+.about-col p{
+	padding: 15px 0 25px;
+	font-size:smaller;
+	
+}
+.red-btn{
+	border:1px solid #36d8f4 ;
+	background: transparent;
+	color: #36b8f4;
+}
+.red-btn:hover{
+	color:#fff;
+
+}
+
+>>>>>>> 5df51c2faedf4a27c03b65316c31e92d07867020
