@@ -355,18 +355,10 @@ h3{
 	margin-top:100px ;
 }
 .about-us{
-<<<<<<< HEAD
-	width: 100%;
-	margin: auto;
-	padding-top: 80px;
-	padding-bottom: 50px;
-	display:flex;
-=======
 	width: 80%;
-	margin: auto;
+	margin : auto;
 	padding-top: 80px;
 	padding-bottom: 50px;
->>>>>>> 5df51c2faedf4a27c03b65316c31e92d07867020
 
 }
 .about-col{
@@ -374,22 +366,6 @@ h3{
 	padding: 30px 2px;
 
 }
-<<<<<<< HEAD
-.about-col h1{
-	font-size: 30px;
-	font-style: oblique;
-	
-}
-.about-col p{
-	font-style: normal;
-	font-size: 15px;
-}
-
-.image{ 
-	width: 100%;
-	
-}
-=======
 .about-col img{ 
 	width: 100%;
 			
@@ -417,4 +393,5 @@ h3{
 
 }
 
->>>>>>> 5df51c2faedf4a27c03b65316c31e92d07867020
+/* -----------------Services page----------- */
+
